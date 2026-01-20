@@ -20,8 +20,7 @@ conflicting clinical interpretations using SQLite.
 ## Visualizations
 
 ### Conflicting vs Consistent Variants
-![Conflicting vs Consistent](<img width="631" height="371" alt="Total Number of Conflicting vs Consistent Variant Interpretations" src="https://github.com/user-attachments/assets/7131c859-d6bf-448b-a7a9-3c341bfe04f3" />
-)
+![Conflicting vs Consistent] Genes With The Most Conflicting Interpretations.png
 
 ### Total Number of Variants per Gene
 ![Gene Variants](<img width="821" height="371" alt="Total Number of Variants per Gene" src="https://github.com/user-attachments/assets/d39122e6-f6f9-4c65-9ce5-d00ec130cb2a" />
