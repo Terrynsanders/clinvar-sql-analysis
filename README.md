@@ -17,8 +17,6 @@ conflicting clinical interpretations using SQLite.
 - Which genes have the most conflicts?
 - How do PolyPhen predictions distribute among variants?
 
-## Visualizations
-
 ## Variant Interpretation Overview
 
 ### Conflicting vs Consistent Variant Interpretations
