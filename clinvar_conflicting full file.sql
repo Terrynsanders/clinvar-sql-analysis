@@ -1,4 +1,8 @@
---Adding  column to conflicts table--
+--Adding  column(VARIANTS) to conflicts table--
+Alter Table clinvar_conflicting
+Add column VARIANT TEXT;
+
+--Running UPDATE to fill new column (VARIANTS)--
 
 UPDATE clinvar_conflicting
 SET VARIANT = coalesce (CAST (CHROM as TEXT) ,' NA ') ||' : '||
