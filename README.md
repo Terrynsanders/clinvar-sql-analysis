@@ -15,7 +15,6 @@ conflicting clinical interpretations using SQLite.
 - How many variants have conflicting interpretations?
 - How many variants have consistent interpretations?
 - Which genes have the most conflicts?
-- How do PolyPhen predictions distribute among variants?
 
 ## Variant Interpretation Overview
 
@@ -33,3 +32,15 @@ conflicting clinical interpretations using SQLite.
 - SQLite
 - Google Sheets (visualization)
 - GitHub
+
+## Key Findings
+- A significant portion of variants were found to have conflicting interpretations
+- Certain genes were found to have a disproportionate amiount of conflicting interpretations
+    - TTN gene has the most conflicting interpretations
+
+## Skills Demonstrated
+- SQL aggregation (COUNT, GROUP BY)
+- Data cleaning with COALESCE
+- Categorical analysis
+- Variant-level data modeling
+- Translating biological data into insights
