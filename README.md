@@ -26,10 +26,10 @@ conflicting clinical interpretations using SQLite.
 
 
 ### Total Number of Variants per Gene
-![Gene Variants](./charts/Total_Number_of_Variants_per_Gene.png)
+![Gene Variants](./charts/Total%20Number%20of%20Variants%20per%20Gene.png)
 
 ### Genes with Highest Conflicts
-![Top Genes](./charts/Genes_With_The_Most_Conflicting_Interpretations.png)
+![Top Genes](./charts/Genes%20With%20The%20Most%20Conflicting%20Interpretations.png)
 
 ## Tools Used
 - SQLite
