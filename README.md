@@ -9,6 +9,7 @@ conflicting clinical interpretations using SQLite.
 - Source: ClinVar
 - Focus: Variants with conflicting vs consistent interpretations
 - Key columns: CHROM, POS, REF, ALT, SYMBOL, CLASS, PolyPhen
+- Additions: Using CHROM, REF, ALT and POS to create VARIANT column
 
 ## Key Questions
 - How many variants have conflicting interpretations?
