@@ -34,7 +34,7 @@ conflicting clinical interpretations using SQLite.
 - GitHub
 
 ## Key Findings
-- A significant portion of variants were found to have conflicting interpretations
+- While most variants showed consistent interpretations a significant portion were found to have conflicting interpretations
 - Certain genes were found to have a disproportionate amiount of conflicting interpretations
     - TTN gene has the most conflicting interpretations
 
